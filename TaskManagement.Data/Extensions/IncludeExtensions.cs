@@ -15,5 +15,5 @@ namespace TaskManagement.Data.Extensions
 
             return query;
         }
-    }r
+    }
 }
